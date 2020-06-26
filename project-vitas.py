@@ -25,6 +25,8 @@ from pprint import pprint
 # Boring setup stuff #
 ######################
 
+# NEED TO USE 1UPHEALTH TO GET A FHIR JSON FILE AND UPLOAD THAT TO IPFS
+
 r_input = input("Enter IPFS Hash: " )
 
 try:
